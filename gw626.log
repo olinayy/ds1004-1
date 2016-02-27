@@ -16,3 +16,22 @@ gw626
 * | c80e6dd 3rd commit (1st on test2).
 |/  
 * 745a6b1 1st commit (1st on master).
+
+yy1742
+*   1de42d6 9th commit (2nd on test4).
+|\  
+| *   3be4c18 7th commit (3rd on test2).
+| |\  
+| | * 0c69167 4th commit (1st on test3).
+* | |   1965404 8th commit (1st on test4).
+|\ \ \  
+| |/ /  
+| * |   58af555 6th commit (2nd on test2).
+| |\ \  
+| | |/  
+| | * e685a3f 2nd commit (1st on test1).
+* | | 596aa2d 5th commit (1st on test4).
+|/ /  
+* | 5f77ab9 3rd commit (1st on test2).
+|/  
+* d0a931b 1st commit (1st on master).
